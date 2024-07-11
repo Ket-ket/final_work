@@ -12,3 +12,4 @@ C:\Обучение тестировщик\С#\final_work\Program\obj\Debug\net8
 C:\Обучение тестировщик\С#\final_work\Program\obj\Debug\net8.0\Program.pdb
 C:\Обучение тестировщик\С#\final_work\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
 C:\Обучение тестировщик\С#\final_work\Program\obj\Debug\net8.0\ref\Program.dll
+C:\Обучение тестировщик\С#\final_work\Program\obj\Debug\net8.0\Program.sourcelink.json
